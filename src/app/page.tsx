@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import BlogItem from "components/blog-item/BlogItem";
+import BlogItem from "components/blog-item/blogItem";
 import { blogs } from "./blogs.data";
 
 export default function Home() {
